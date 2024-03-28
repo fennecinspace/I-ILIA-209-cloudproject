@@ -32,7 +32,7 @@ You must create database entries for each of them in Processors, in the django a
 # Command 
 docker run -v Resource.name[FIRE_CLASSIFICATION_TEST_DATASET]:/code/dataset -v Submission.file:/code/model.h5 fennecinspace/hackia-keras-fire-classify python /code/script.py -d /code/dataset -m /code/model.h5
 
-# Entry 1
+# Entry 2
 # Image name : fennecinspace/hackia-torch-fire-classify
 # Command 
 docker run -v Resource.name[FIRE_CLASSIFICATION_TEST_DATASET]:/code/dataset -v Submission.file:/code/model.pt fennecinspace/hackia-torch-fire-classify python /code/script.py -d /code/dataset -m /code/model.pt
