@@ -1,6 +1,8 @@
 # machine learning leaderboard
 
-Full-stack todo application with authentication. Built with Django, MySQL, Postgres and NGINX.
+<img src="docs/preview-2.png" />
+
+Full-stack machine learning challenges leaderboard application with authentication. Built with Django, MySQL, Postgres and NGINX.
 
 App should be accessible through : 
 

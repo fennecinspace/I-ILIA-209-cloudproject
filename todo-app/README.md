@@ -1,5 +1,7 @@
 # todo-app
 
+<img src="docs/preview-2.png" />
+
 Full-stack todo application with authentication. Built with React, Express, Postgres, and Nginx.
 
 App should be accessible through : 
