@@ -4,8 +4,8 @@ Full-stack todo application with authentication. Built with Django, MySQL, Postg
 
 App should be accessible through : 
 
-- http://localhost:80 (NGINX Proxy for DJANGO SERVER)
-- http://localhost:8000 (DJANGO SERVER)
+- https://domain (NGINX Proxy for DJANGO SERVER)
+- http://domain:8000 (DJANGO SERVER)
 
 Create a microservices architecture through docker-compose using 4 services
 
