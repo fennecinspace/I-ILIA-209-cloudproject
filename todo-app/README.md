@@ -4,8 +4,8 @@ Full-stack todo application with authentication. Built with React, Express, Post
 
 App should be accessible through : 
 
-- http://localhost:80 (NGINX Proxy for NODE SERVER)
-- http://localhost:3000 (NODE SERVER)
+- https://domain (NGINX Proxy for NODE SERVER)
+- http://domain:3000 (NODE SERVER)
 
 Create a microservices architecture through docker-compose using 4 services
 
